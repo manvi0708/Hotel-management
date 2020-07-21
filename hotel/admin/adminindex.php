@@ -61,7 +61,7 @@ include("connection.php");
            	     }
            	     else
            	     {
-           	     	header('Location: index.php');
+           	     	header('Location: adminindex.php');
            	     }
 
            }
